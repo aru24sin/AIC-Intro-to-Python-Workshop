@@ -5,7 +5,6 @@
 #Output each created variable using the print() function
 
 #2) Create two string variables s1 & s2
-
 #Create a new variable s3 that adds s1 & s2 together
 #print this new variable out
 
