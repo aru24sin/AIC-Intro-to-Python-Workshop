@@ -1,5 +1,7 @@
-#Variables & Data Types
+#Conditional Statements
 
-#Initialize each data type in python as a unique variable
-#Follow the rules for variable names
-#Output each created variable using the print() function
+#1) Create a variable that takes an integer input from the user
+# code an if...else statement that determines whether the number given is an even or odd number
+
+#2) Create two variables that take integer input from the user
+# code an if...else statement that determines the variable with the bigger value

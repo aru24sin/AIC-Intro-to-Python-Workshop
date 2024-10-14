@@ -1,0 +1,4 @@
+welcome to the Artificial Intelligence Club.
+this text file is for question 8
+of the Intro to Python Workshop.
+Remember to close the files that you open!
